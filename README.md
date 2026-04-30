@@ -19,7 +19,7 @@ The goal of this practice was to build strong hands-on skills in SQL and underst
 ## 📂 File Included
 
 * `Practice_for_interviews.sql` → Contains all SQL queries and practice exercises
-
+* Assignment.sql → Includes SQL assignment questions along with their solutions for additional practice and concept clarity
 ---
 
 ## 📘 Topics Covered
