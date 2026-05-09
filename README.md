@@ -51,7 +51,7 @@ The goal of this practice was to build strong hands-on skills in SQL and underst
 
 ### 🔹 4. Views
 
-* Creating and querying views for simplified data access and reusability
+* Creating and querying views for data security and access control
 
 ---
 
