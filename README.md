@@ -131,7 +131,7 @@ The goal of this practice was to build strong hands-on skills in SQL and underst
 * Add advanced joins (LEFT, RIGHT, FULL)
 * Include window functions
 * Build mini projects using real datasets
-* Optimize of queries for better performance
+* Optimize queries for better performance
 
 ---
 
