@@ -3,13 +3,13 @@
 ## 📌 Overview
 
 This repository contains my structured SQL practice work created while preparing for data analyst and technical interviews.
-The script covers beginner to intermediate SQL concepts including database creation, table operations, constraints, joins, subqueries, and data manipulation.
+The script covers beginner to intermediate level SQL concepts including database creation, table operations, constraints, joins, subqueries, and data manipulation.
 
 The goal of this practice was to build strong hands-on skills in SQL and understand real-world database operations.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies Used
 
 * SQL (MySQL)
 * Relational Database Concepts
