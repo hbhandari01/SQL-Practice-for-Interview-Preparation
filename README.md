@@ -1,4 +1,4 @@
-# 📊 SQL Practice for Interview Preparation
+# 📊 SQL Practice for Interview
 
 ## 📌 Overview
 
