@@ -137,7 +137,7 @@ The goal of this practice was to build strong hands-on skills in SQL and underst
 
 ## 👨‍💻 Author
 
-**Himanshu Bhandari**
+**Himanshu Bhandari** |
 Data Analyst 
 
 ---
